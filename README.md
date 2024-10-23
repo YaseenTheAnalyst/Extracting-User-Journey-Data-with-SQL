@@ -1,4 +1,4 @@
-# User Journey and Purchase Analysis
+# Extracting User Journey Data with SQL
 
 ## **Introduction**
 
